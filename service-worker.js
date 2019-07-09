@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/frontend-nanodegree-MyReads-remaster/precache-manifest.00f63c4a192562825e4960ac8de72ced.js"
+  "/frontend-nanodegree-MyReads-remaster/precache-manifest.31d37e78036c9a7cd001369a7d5168a3.js"
 );
 
 workbox.clientsClaim();
