@@ -1,14 +1,14 @@
 {
-  "main.css": "/frontend-nanodegree-MyReads-remaster/static/css/main.1c656e5c.chunk.css",
-  "main.js": "/frontend-nanodegree-MyReads-remaster/static/js/main.39061737.chunk.js",
-  "main.js.map": "/frontend-nanodegree-MyReads-remaster/static/js/main.39061737.chunk.js.map",
-  "static/js/1.c4134bd6.chunk.js": "/frontend-nanodegree-MyReads-remaster/static/js/1.c4134bd6.chunk.js",
-  "static/js/1.c4134bd6.chunk.js.map": "/frontend-nanodegree-MyReads-remaster/static/js/1.c4134bd6.chunk.js.map",
-  "runtime~main.js": "/frontend-nanodegree-MyReads-remaster/static/js/runtime~main.84817fe6.js",
-  "runtime~main.js.map": "/frontend-nanodegree-MyReads-remaster/static/js/runtime~main.84817fe6.js.map",
-  "static/media/App.css": "/frontend-nanodegree-MyReads-remaster/static/media/arrow-drop-down.78c6f53b.svg",
-  "static/css/main.1c656e5c.chunk.css.map": "/frontend-nanodegree-MyReads-remaster/static/css/main.1c656e5c.chunk.css.map",
-  "index.html": "/frontend-nanodegree-MyReads-remaster/index.html",
-  "precache-manifest.9cf96f8bcf213335fa554502bbf3b071.js": "/frontend-nanodegree-MyReads-remaster/precache-manifest.9cf96f8bcf213335fa554502bbf3b071.js",
-  "service-worker.js": "/frontend-nanodegree-MyReads-remaster/service-worker.js"
+  "main.css": "/frontend-nanodegree-myreads-remaster/static/css/main.705b0901.chunk.css",
+  "main.js": "/frontend-nanodegree-myreads-remaster/static/js/main.f6b17827.chunk.js",
+  "main.js.map": "/frontend-nanodegree-myreads-remaster/static/js/main.f6b17827.chunk.js.map",
+  "static/js/1.c4134bd6.chunk.js": "/frontend-nanodegree-myreads-remaster/static/js/1.c4134bd6.chunk.js",
+  "static/js/1.c4134bd6.chunk.js.map": "/frontend-nanodegree-myreads-remaster/static/js/1.c4134bd6.chunk.js.map",
+  "runtime~main.js": "/frontend-nanodegree-myreads-remaster/static/js/runtime~main.5e70b5b9.js",
+  "runtime~main.js.map": "/frontend-nanodegree-myreads-remaster/static/js/runtime~main.5e70b5b9.js.map",
+  "static/media/App.css": "/frontend-nanodegree-myreads-remaster/static/media/arrow-drop-down.78c6f53b.svg",
+  "static/css/main.705b0901.chunk.css.map": "/frontend-nanodegree-myreads-remaster/static/css/main.705b0901.chunk.css.map",
+  "index.html": "/frontend-nanodegree-myreads-remaster/index.html",
+  "precache-manifest.7a57bfc879578792e62a054a796563d5.js": "/frontend-nanodegree-myreads-remaster/precache-manifest.7a57bfc879578792e62a054a796563d5.js",
+  "service-worker.js": "/frontend-nanodegree-myreads-remaster/service-worker.js"
 }

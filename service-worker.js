@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/frontend-nanodegree-MyReads-remaster/precache-manifest.9cf96f8bcf213335fa554502bbf3b071.js"
+  "/frontend-nanodegree-myreads-remaster/precache-manifest.7a57bfc879578792e62a054a796563d5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/frontend-nanodegree-MyReads-remaster/index.html", {
+workbox.routing.registerNavigationRoute("/frontend-nanodegree-myreads-remaster/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
